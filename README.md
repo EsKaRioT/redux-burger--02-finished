@@ -1,7 +1,7 @@
 ### Материал взят из курса https://www.udemy.com/react-the-complete-guide-incl-redux/
 
 ### Курс проходит на примере Burger приложения. 
-Для достоверности: логин valerylukin@yahoo.com пароль INUsb1k%@ii7
+Для проверки: логин valerylukin@yahoo.com пароль INUsb1k%@ii7
 
 ### Собрано на : 
 #### Create React App 
