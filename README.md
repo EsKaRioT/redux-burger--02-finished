@@ -1,4 +1,4 @@
-## Материал взят из курса https://www.udemy.com/react-the-complete-guide-incl-redux/
+### Материал взят из курса https://www.udemy.com/react-the-complete-guide-incl-redux/
 
 ### Курс проходит на примере Burger приложения. 
 Для достоверности: логин valerylukin@yahoo.com пароль INUsb1k%@ii7
