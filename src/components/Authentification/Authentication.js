@@ -1,6 +1,6 @@
-let auth = ()=>{
-    if (login == login){
-        alert('все пучком')
+let auth = (login, password)=>{
+    if (login === 'login' && password ==='password'){
+        alert('поменяли значение')
     }else {
         alert('ай ай')
     }
