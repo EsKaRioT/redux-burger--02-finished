@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f7e7b8-7027-4b72-9bce-e717cf43fa56" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UI/Button/toDelTest.css" afterPath="$PROJECT_DIR$/src/components/UI/Button/toDelTest.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,21 +59,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Button.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Button.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
+<<<<<<< HEAD
               <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding>
                 <marker date="1516606395178" expanded="true" signature="56:259" ph="{...}" />
                 <marker date="1516606395178" expanded="true" signature="283:327" ph="{...}" />
                 <marker date="1516606395178" expanded="true" signature="346:391" ph="{...}" />
               </folding>
+=======
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toDelTest.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/UI/Button/toDelTest.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+>>>>>>> test_branch
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -101,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/axios-orders.js" />
         <option value="$PROJECT_DIR$/src/containers/Orders/Orders.js" />
         <option value="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
+        <option value="$PROJECT_DIR$/src/components/UI/Button/toDelTest.css" />
       </list>
     </option>
   </component>
@@ -220,6 +243,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="C:\JavaScript\REACT\LESSONS\Udemy\REDUX\redux-burger--02-finished\node_modules\eslint" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,12 +267,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516523564347</updated>
-      <workItem from="1516523565660" duration="10258000" />
+      <workItem from="1516523565660" duration="12276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10258000" />
+    <option name="totallyTimeSpent" value="12276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="479" y="74" width="1393" height="812" extended-state="0" />
@@ -430,11 +454,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+<<<<<<< HEAD
           <folding>
             <marker date="1516606395178" expanded="true" signature="56:259" ph="{...}" />
             <marker date="1516606395178" expanded="true" signature="283:327" ph="{...}" />
             <marker date="1516606395178" expanded="true" signature="346:391" ph="{...}" />
           </folding>
+=======
+          <folding />
+>>>>>>> test_branch
         </state>
       </provider>
     </entry>
@@ -442,6 +470,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -582,6 +611,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+=======
+>>>>>>> test_branch
           <folding />
         </state>
       </provider>
