@@ -5,3 +5,6 @@ let auth = ()=>{
         alert('ай ай')
     }
 };
+
+
+const Gogo
