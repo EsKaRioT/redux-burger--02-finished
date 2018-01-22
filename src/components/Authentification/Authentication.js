@@ -6,4 +6,4 @@ let auth = (login, password)=>{
     }
 };
 
-let goooot;
+let gt;
