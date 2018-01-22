@@ -1,7 +1,9 @@
 let auth = ()=>{
-    if (login == login){
+    if (login == logingogi){
         alert('все пучком')
     }else {
         alert('ай ай')
     }
 };
+
+let git;
